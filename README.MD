@@ -20,20 +20,5 @@ CI/CD has been setup for this project in Azure devops.
 Complete source code: 
 https://github.com/learnsmartcoding/EssentialProducts.API
 
-The below videos will be useful and can help you understand better some topics used in this course.
 
-How to use Async and Await in C#: 
-https://www.youtube.com/watch?v=aEnhcdKlS1U
-
-Entity Framework Core commands are explained with examples:
-https://www.youtube.com/watch?v=3okWEZfGF6w
-
-How to upload a file using DOTNET CORE
-https://www.youtube.com/watch?v=tqjGuKEhK38&t=36s
-
-Please post your questions in the comment section and I will be happy to answer your questions.
-
-Subscribe for more useful videos just like this: https://www.youtube.com/channel/UCKUxSY2xp12QiP3c60sOc-g?sub_confirmation=1
-
-Happy coding!
 
